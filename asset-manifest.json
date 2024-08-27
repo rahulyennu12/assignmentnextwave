@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignmentnextwave/static/css/main.cb504045.css",
+    "main.js": "/assignmentnextwave/static/js/main.22f58b27.js",
+    "index.html": "/assignmentnextwave/index.html",
+    "main.cb504045.css.map": "/assignmentnextwave/static/css/main.cb504045.css.map",
+    "main.22f58b27.js.map": "/assignmentnextwave/static/js/main.22f58b27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb504045.css",
+    "static/js/main.22f58b27.js"
+  ]
+}
